@@ -1,4 +1,4 @@
-#material para line sweep
+# material para line sweep
 
 1. [how to sweep like a Sir. blogger: DanAlex](http://codeforces.com/blog/entry/20377)
 2. [area of union of circles. author: retrograd](http://codeforces.com/blog/entry/20377?#comment-251588)
@@ -25,7 +25,7 @@
 
 
 
-#lecturas suplementarias
+# lecturas suplementarias
 
 1. [Geometry shrink trick. blogger: DanAlex](http://codeforces.com/blog/entry/11441)
 2. [visibility graph](https://en.wikipedia.org/wiki/Visibility_graph)
@@ -51,7 +51,7 @@
 22. [circle line intersection](https://e-maxx-eng.appspot.com/geometry/circle-line-intersection.html)
 23. 
 
-#problems:
+# problems:
 
 1. [198. Get out! / sgu](http://acm.sgu.ru/problem.php?contest=0&problem=198)
 2. [Robot / infoarena](https://www.infoarena.ro/problema/robot)
