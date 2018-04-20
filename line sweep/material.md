@@ -67,7 +67,7 @@
 24. [inversive geometry, wikipedia](https://en.wikipedia.org/wiki/Inversive_geometry)
 25. [inversive geometry / wolfram](http://mathworld.wolfram.com/InversiveGeometry.html)
 26. [greedy is good / topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
-27. []()
+27. [computational geometry fe de erratas/ berg](http://www.win.tue.nl/~mdberg/full.htm)
 
 
 # problems:
