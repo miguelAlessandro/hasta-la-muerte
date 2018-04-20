@@ -22,6 +22,20 @@
 20. [voronoi diagram / csie](http://www.csie.ntnu.edu.tw/~u91029/Neighbor.html)
 21. [convex hull / csie](http://www.csie.ntnu.edu.tw/~u91029/ConvexHull.html)
 22. [triangulation / csie](http://www.csie.ntnu.edu.tw/~u91029/Triangulation.html)
+23. [fortune algorithm](https://en.wikipedia.org/wiki/Fortune%27s_algorithm)
+24. [paul bourke!](http://paulbourke.net/)
+25. [paul bourke! / papers](http://paulbourke.net/papers/)
+26. [triangulation](https://www.cise.ufl.edu/~ungor/delaunay/delaunay/node4.html)
+27. [voronoi ideas](http://codeforces.com/blog/entry/46167)
+28. [line sweep ideas](http://codeforces.com/blog/entry/12739?#comment-174926)
+29. [minimum enclosing circle](http://codeforces.com/blog/entry/8580)
+30. [delanuay triangulation](http://chhung6.blogspot.pe/2010/08/voronoi-diagram-delaunay-triangulation.html?m=1)
+31. [matroid](https://en.wikipedia.org/wiki/Matroid)
+32. [implementation (change to other files)](http://web.mit.edu/~ecprice/acm/acm08/notebook.html#file7)
+33. [point location](https://en.wikipedia.org/wiki/Point_location)
+34. [sweep line /quora](https://www.quora.com/As-there-are-many-sweep-line-algorithms-which-one-is-the-most-popular-used-for-a-contest-programming-approach)
+
+
 
 
 
@@ -49,7 +63,12 @@
 20. [optimal scheduling 2](https://e-maxx-eng.appspot.com/schedules/schedule_two_machines.html)
 21. [optimal scheduling](https://e-maxx-eng.appspot.com/schedules/schedule_one_machine.html)
 22. [circle line intersection](https://e-maxx-eng.appspot.com/geometry/circle-line-intersection.html)
-23. 
+23. [inversive geometry journal](http://www.mathematica-journal.com/2016/08/inversive-geometry/)
+24. [inversive geometry, wikipedia](https://en.wikipedia.org/wiki/Inversive_geometry)
+25. [inversive geometry / wolfram](http://mathworld.wolfram.com/InversiveGeometry.html)
+26. [greedy is good / topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
+27. []()
+
 
 # problems:
 
