@@ -111,4 +111,5 @@
 21. [E. NarrowRectangles (slope trick problem)/ atcoder](https://arc070.contest.atcoder.jp/tasks/arc070_c)
 22. [fireworks (slope trick problem) / apio](https://github.com/apio-2016/apio2016-tasks/blob/master/fireworks/descriptions/en.pdf)
 23. [C. Sonya and Problem Wihtout a Legend](http://codeforces.com/contest/713/problem/C)
-24. [](	)
+24. [single cut of failure / kattis](https://online.acmicpc.org/problems/single)
+25. [panda preserve / kattis](https://online.acmicpc.org/problems/pandapreserve)
