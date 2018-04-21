@@ -34,10 +34,11 @@
 32. [implementation (change to other files)](http://web.mit.edu/~ecprice/acm/acm08/notebook.html#file7)
 33. [point location](https://en.wikipedia.org/wiki/Point_location)
 34. [sweep line /quora](https://www.quora.com/As-there-are-many-sweep-line-algorithms-which-one-is-the-most-popular-used-for-a-contest-programming-approach)
+35. [geometrics and scheduling](https://e-maxx-eng.appspot.com/)
 
+# videos 
 
-
-
+1. [sweeps / algorithms live](https://www.youtube.com/watch?v=gXn2yUHpvRE&t=2741s)
 
 # lecturas suplementarias
 
@@ -68,7 +69,22 @@
 25. [inversive geometry / wolfram](http://mathworld.wolfram.com/InversiveGeometry.html)
 26. [greedy is good / topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
 27. [computational geometry fe de erratas/ berg](http://www.win.tue.nl/~mdberg/full.htm)
-
+28. [voronoi diagram / cmu](http://www.cs.cmu.edu/afs/cs/academic/class/15451-s15/LectureNotes/lecture17/voronoi.pdf)
+29. [voronoi diagram / mit](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/lecture-notes/lec23.pdf)
+30. [Counting Circles Without Computing Them](http://drops.dagstuhl.de/opus/volltexte/2016/5876/pdf/16.pdf)
+31. [greedy stays ahead](http://www.cs.cornell.edu/courses/cs482/2004su/handouts/greedy_ahead.pdf)
+32. [greedy / eva tardos](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/04GreedyAlgorithmsI.pdf)
+33. [greedy / berkeley](https://people.eecs.berkeley.edu/~nirkhe/cs38notes/greedy.pdf)
+34. [gredy / new mexico](https://www.cs.unm.edu/~saia/classes/561-f11/lec/lec7.pdf)
+35. [voronoi diagram 2 / mit](http://nms.csail.mit.edu/~aklmiu/6.838/L7.pdf)
+36. [greedy algortihms 2 / duke](https://www2.cs.duke.edu/courses/fall17/cps130/lecture7note.pdf)
+37. [fractional knapsack](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall14/lectures/Greedy_Knapsack_Slides.pdf)
+38. [greedy algortihms / hacettepe](https://web.cs.hacettepe.edu.tr/~ozkahya/classes/bbm402/Reading/Greedy.pdf)
+39. [greedy algorithms 1 / duke](https://www2.cs.duke.edu/courses/fall17/compsci330/lecture6note.pdf)
+40. [greedy algorithms / unimi](http://lonati.di.unimi.it/algo/0910/lab/kowalski6.pdf)
+41. [greedy / ict](http://bioinfo.ict.ac.cn/~dbu/AlgorithmCourses/Lectures/Lec7.pdf)
+42. []()
+43. []()
 
 # problems:
 
