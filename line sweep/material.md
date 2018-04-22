@@ -36,6 +36,19 @@
 34. [sweep line /quora](https://www.quora.com/As-there-are-many-sweep-line-algorithms-which-one-is-the-most-popular-used-for-a-contest-programming-approach)
 35. [geometrics and scheduling](https://e-maxx-eng.appspot.com/)
 
+#sweep line to geometry
+
+1. [Line intersection / cse](http://www.cse.iitd.ernet.in/~ssen/cs852/newscribe/soumyadip.pdf)
+2. [Planar union of rectangles with sides parallel to the coordinate axis](http://icai.ektf.hu/pdf/ICAI2004-vol1-pp293-301.pdf)
+3. [implementation / uct](http://olympiad.cs.uct.ac.za/presentations/camp1_2009/linesweep_handout.pdf)
+4. [line sweep algorithm / Schalk-Willem Krüger](http://olympiad.cs.uct.ac.za/presentations/camp1_2009/linesweep.pdf)
+5. [Computational Geometry / Maryland](http://www.cs.umd.edu/~mount/754/Lects/754lects.pdf)
+6. [Klee's Measure problem / illinois](http://jeffe.cs.illinois.edu/open/klee.html)
+7. [Segment trees and interval trees](http://www.newsmth.net/bbsanc.php?path=%2Fgroups%2Fcomp.faq%2FAlgorithm%2FAlgorithmsRepository%2FAlgorithmWeekly%2F1%2FM.1180456236.40&ap=26410)
+8. [Computational Geometry Segment Trees / kaust](https://algo.kaust.edu.sa/documents/cs372l07.pdf)
+9. []()
+10. []()
+
 # videos 
 
 1. [sweeps / algorithms live](https://www.youtube.com/watch?v=gXn2yUHpvRE&t=2741s)
