@@ -36,7 +36,7 @@
 34. [sweep line /quora](https://www.quora.com/As-there-are-many-sweep-line-algorithms-which-one-is-the-most-popular-used-for-a-contest-programming-approach)
 35. [geometrics and scheduling](https://e-maxx-eng.appspot.com/)
 
-#sweep line to geometry
+## sweep line to geometry
 
 1. [Line intersection / cse](http://www.cse.iitd.ernet.in/~ssen/cs852/newscribe/soumyadip.pdf)
 2. [Planar union of rectangles with sides parallel to the coordinate axis](http://icai.ektf.hu/pdf/ICAI2004-vol1-pp293-301.pdf)
