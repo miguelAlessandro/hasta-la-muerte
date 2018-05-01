@@ -14,7 +14,7 @@
 # Problemas
 1. [ILKQUERY - I LOVE Kd-TREES](http://www.spoj.com/problems/ILKQUERY/en/)
 2. [ILKQUERY2 - I Love Kd-Trees II](http://www.spoj.com/problems/ILKQUERY2/en/)
-3. [ILKQUERYIII - I LOVE Kd-TREES III](http://www.spoj.com/problems/ILKQUERYII)/en/)
+3. [ILKQUERYIII - I LOVE Kd-TREES III](http://www.spoj.com/problems/ILKQUERYIII/en/)
 4. [Asia Tianjin 2010: 5034 - Jewel](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=393&page=show_problem&problem=3035)
 5. [Latin America 2016: 7890 - Emission Spectrum](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=752&page=show_problem&problem=5912)
 6. [Educational: E. Army Creation](http://codeforces.com/contest/813/problem/E)
