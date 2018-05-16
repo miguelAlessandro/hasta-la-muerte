@@ -1,7 +1,7 @@
 # Material para line sweep
 
-1. [how to sweep like a Sir. blogger: DanAlex](http://codeforces.com/blog/entry/20377)
-2. [area of union of circles. author: retrograd](http://codeforces.com/blog/entry/20377?#comment-251588)
+* [how to sweep like a Sir. blogger: DanAlex](http://codeforces.com/blog/entry/20377)
+* [area of union of circles. author: retrograd](http://codeforces.com/blog/entry/20377?#comment-251588)
 3. [angular sweep. blogger: Aanya Jindal](https://www.geeksforgeeks.org/angular-sweep-maximum-points-can-enclosed-circle-given-radius/)
 4. [Rectangle Union Problem. blogger: P_Nyagolov](http://codeforces.com/blog/entry/44484)
 5. [Plane sweep. ](http://www.jn.inf.ethz.ch/education/script/P6_C25.pdf)
@@ -46,8 +46,6 @@
 6. [Klee's Measure problem / illinois](http://jeffe.cs.illinois.edu/open/klee.html)
 7. [Segment trees and interval trees](http://www.newsmth.net/bbsanc.php?path=%2Fgroups%2Fcomp.faq%2FAlgorithm%2FAlgorithmsRepository%2FAlgorithmWeekly%2F1%2FM.1180456236.40&ap=26410)
 8. [Computational Geometry Segment Trees / kaust](https://algo.kaust.edu.sa/documents/cs372l07.pdf)
-9. []()
-10. []()
 
 # Videos 
 
@@ -96,8 +94,6 @@
 39. [greedy algorithms 1 / duke](https://www2.cs.duke.edu/courses/fall17/compsci330/lecture6note.pdf)
 40. [greedy algorithms / unimi](http://lonati.di.unimi.it/algo/0910/lab/kowalski6.pdf)
 41. [greedy / ict](http://bioinfo.ict.ac.cn/~dbu/AlgorithmCourses/Lectures/Lec7.pdf)
-42. []()
-43. []()
 
 # Problems:
 
