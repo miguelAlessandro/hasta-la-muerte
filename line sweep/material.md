@@ -53,8 +53,14 @@
 
 # Lecturas suplementarias
 
+## geeometry
+
 * [Geometry shrink trick. blogger: DanAlex](http://codeforces.com/blog/entry/11441)
 
+## greedy
+
+
+## sweep line
 
 ### nociones basicas
 
@@ -74,6 +80,7 @@
 
 * [design and analysis of algorithms](https://www.ics.uci.edu/~eppstein/161/)
 
+====
 
 * [useful](http://cgm.cs.mcgill.ca/bibs/)
 * [useful 2](http://www.cs.mcgill.ca/~ethan/algoseminar/links.html)
